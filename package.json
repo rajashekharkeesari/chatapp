@@ -1,0 +1,23 @@
+{
+  "name": "chatapp",
+  "version": "1.0.0",
+  "description": "this is a messaging app",
+  "homepage": "https://github.com/rajashekharkeesari/chatapp#readme",
+  "bugs": {
+    "url": "https://github.com/rajashekharkeesari/chatapp/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajashekharkeesari/chatapp.git"
+  },
+  "license": "ISC",
+  "author": "rajashekhar",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "vite": "^7.3.1"
+  }
+}
